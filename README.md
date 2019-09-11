@@ -19,4 +19,3 @@ This crawler helps creating new persons into a specific library
 ## License
 
 MIT License
-Copyright (c) Addy Osmani & Sindre Sorhus
