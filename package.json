@@ -1,0 +1,14 @@
+{
+  "name": "library-import-crawler",
+  "version": "1.0.0",
+  "description": "A small crawler which creates new persons into a Veritone's Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Budsoft",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^3.0.2"
+  }
+}

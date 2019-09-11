@@ -1,0 +1,9 @@
+node_modules
+.idea
+npm-debug.log
+yarn-error.log
+build-*
+build
+package-lock.json
+.DS_Store
+test/e2e/output
